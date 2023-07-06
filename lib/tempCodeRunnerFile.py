@@ -1,6 +1,3 @@
-#!/usr/bin/env python3
-
-
 def print_fibonacci(length):
     a = 0
     b = 1
